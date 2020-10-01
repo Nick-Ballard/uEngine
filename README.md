@@ -3,9 +3,11 @@ A simple python script that generates possible usernames and email addresses by 
 
 # Example Usage:
 Single Name
+
 ./uengine.py -n 'Joe Schmoe'
 
 Name List
+
 ./uengine.py -n 'Joe Schmoe, George Brown, Paul Jones'
 
 Name File
