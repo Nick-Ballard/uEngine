@@ -19,3 +19,5 @@ Output to file
 
 Generate more combinations with char list
 ./uengine.py -n 'Joe Schmoe' -c 
+
+sd
