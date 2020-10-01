@@ -1,7 +1,7 @@
 # uengine
 A simple python script that generates possible usernames and email addresses by manipulating names provided.
 
-# Example Usage:
+# Example Usage
 Single Name:<br>
 ./uengine.py -n 'Joe Schmoe'
 
