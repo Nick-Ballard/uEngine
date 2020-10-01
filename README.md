@@ -10,7 +10,7 @@ Name List
 
 ./uengine.py -n 'Joe Schmoe, George Brown, Paul Jones'
 
-Name File
+Name File:<br>
 ./uengine.py -f in.txt -o out.txt
 
 Output emails
@@ -21,6 +21,4 @@ Output to file
 
 Generate more combinations with char list
 ./uengine.py -n 'Joe Schmoe' -c 
-
-sd
 
